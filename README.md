@@ -23,7 +23,7 @@ I’m a **Web Engineer, Frontend Developer, Consultant Tech, and Software Engine
 
 ## 🛠️ Tech Stack  
 
-**Frontend**: React, Next.js, TypeScript, TailwindCSS, Bootstrap
+**Frontend**: React, Next.js, TypeScript, TailwindCSS, Bootstrap<br/>
 **Backend**: Node.js, PHP (Laravel), Flask, MySQL, PostgreSQL  
 **DevOps**: Docker, cPanel, Vercel, Netlify  
 **Other**: Redux Toolkit, REST API, SaaS, POS Systems, Wordpress  
