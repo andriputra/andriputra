@@ -61,6 +61,7 @@ I’m a **Web Engineer, Frontend Developer, Consultant Tech, and Software Engine
         <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40"/><br/>AboutMe
       </a>
     </td>
+
   </tr>
 </table>
 
@@ -69,7 +70,7 @@ I’m a **Web Engineer, Frontend Developer, Consultant Tech, and Software Engine
 ## 📱 Scan to Connect  
 
 <p align="center">
-  <img src="https://your-image-link/qrcode.png" width="180" alt="QR Code to Connect"/>
+  <img width="180" alt="QR Code to Connect" src="https://github.com/user-attachments/assets/f94711db-044e-4391-ae7c-e33fa3d52875" />
 </p>
 
 ---
