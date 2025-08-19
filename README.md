@@ -32,7 +32,7 @@ I’m a **Web Engineer, Frontend Developer, Consultant Tech, and Software Engine
 
 ## 📊 GitHub Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriputra&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriputra&layout=compact&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andriputra&show_icons=true&theme=tokyonight)  
 ![Andriputra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andriputra&theme=tokyonight&hide_border=false)
 
