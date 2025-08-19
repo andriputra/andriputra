@@ -39,7 +39,7 @@ I’m a **Web Engineer, Frontend Developer, Consultant Tech, and Software Engine
 
 ## 📱 Scan to Connect  
 
-<p align="center">
+<p align="left">
   <img width="180" alt="QR Code to Connect" src="https://github.com/user-attachments/assets/f94711db-044e-4391-ae7c-e33fa3d52875" />
 </p>
 
