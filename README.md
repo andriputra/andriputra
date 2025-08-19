@@ -23,10 +23,10 @@ I’m a **Web Engineer, Frontend Developer, Consultant Tech, and Software Engine
 
 ## 🛠️ Tech Stack  
 
-**Frontend**: React, Next.js, TypeScript, TailwindCSS  
+**Frontend**: React, Next.js, TypeScript, TailwindCSS, Bootstrap 
 **Backend**: Node.js, PHP (Laravel), Flask, MySQL, PostgreSQL  
 **DevOps**: Docker, cPanel, Vercel, Netlify  
-**Other**: Redux Toolkit, REST API, SaaS, POS Systems  
+**Other**: Redux Toolkit, REST API, SaaS, POS Systems, Wordpress  
 
 ---
 
@@ -34,6 +34,7 @@ I’m a **Web Engineer, Frontend Developer, Consultant Tech, and Software Engine
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriputra&layout=compact&theme=tokyonight)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andriputra&show_icons=true&theme=tokyonight)  
+![Andriputra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andriputra&theme=tokyonight&hide_border=false)
 
 ---
 
