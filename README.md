@@ -37,36 +37,6 @@ I’m a **Web Engineer, Frontend Developer, Consultant Tech, and Software Engine
 
 ---
 
-## 🌐 Connect With Me  
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/agusandriputra/">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/><br/>LinkedIn
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.upwork.com/freelancers/agusandriputra2">
-        <img src="https://cdn.iconscout.com/icon/free/png-512/upwork-3521767-2945131.png" width="40"/><br/>UpWork
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://fastwork.id/user/agusandri?source=web_chat_profile-menu_profile">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40"/><br/>Fastwork
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aboutme.flexbox.id">
-        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40"/><br/>AboutMe
-      </a>
-    </td>
-
-  </tr>
-</table>
-
----
-
 ## 📱 Scan to Connect  
 
 <p align="center">
