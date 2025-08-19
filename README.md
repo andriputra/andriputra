@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Agus Andri Putra  
 <img width="1200" height="400" alt="banneraap" src="https://github.com/user-attachments/assets/99a3d5cf-950c-4743-9e21-250eb9b72baa" />
 
-![Banner]() <!-- Ganti dengan banner personal kamu -->
-
 [![Upwork](https://img.shields.io/badge/UpWork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/agusandriputra2)
 [![Fastwork](https://img.shields.io/badge/Fastwork-Hire%20Me-blue?style=for-the-badge&logo=freelancer)](https://fastwork.id/user/agusandri?source=web_chat_profile-menu_profile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/agusandriputra/)
