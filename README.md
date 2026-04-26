@@ -4,8 +4,8 @@
 [![Upwork](https://img.shields.io/badge/UpWork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/agusandriputra2)
 [![Fastwork](https://img.shields.io/badge/Fastwork-Hire%20Me-blue?style=for-the-badge&logo=freelancer)](https://fastwork.id/user/agusandri?source=web_chat_profile-menu_profile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/agusandriputra/)
-[![Portfolio](https://img.shields.io/badge/AboutMe-Visit-8E44AD?style=for-the-badge&logo=vercel)](https://aboutme.flexbox.id)
-[![Product](https://img.shields.io/badge/Flexbox.id-Website-orange?style=for-the-badge&logo=internet-explorer)](https://flexbox.id)
+[![Portfolio](https://img.shields.io/badge/AboutMe-Visit-8E44AD?style=for-the-badge&logo=vercel)](https://aboutme.flexbox.my.id)
+[![Product](https://img.shields.io/badge/Flexbox.id-Website-orange?style=for-the-badge&logo=internet-explorer)](https://flexbox.my.id)
 [![POS](https://img.shields.io/badge/Flexbox%20POS-Explore-FF5733?style=for-the-badge&logo=google-chrome)](https://pos.flexbox.id)
 
 ---
