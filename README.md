@@ -14,7 +14,7 @@
 I’m a **Web Engineer, Frontend Developer, Consultant Tech, and Software Engineer** passionate about building modern web apps, SaaS, and scalable systems.  
 
 - 💻 Expert in **Web Development & POS Systems**  
-- 🚀 Founder of [Flexbox.id](https://flexbox.my.id)  
+- 🚀 Founder of [Flexbox Indonesia](https://flexbox.my.id)  
 - 🌍 Available for **freelance & consulting** via UpWork & Fastwork  
 - ✨ Open Source & SaaS Enthusiast  
 
